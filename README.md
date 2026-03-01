@@ -4,5 +4,6 @@
 1.什么是Git/Github  
 2.Github网站的基础介绍  
 3.发现工具，寻找灵感:  
-    [推荐热点](https://github.com/explore)
-    
+    [推荐热点](https://github.com/explore)  
+    [高级搜索](https://github.com/search)  
+    [收藏列表](https://github.com/stars)  
