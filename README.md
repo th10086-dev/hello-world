@@ -1,12 +1,12 @@
 # hello-world
-学习Github的第一个仓库  
-## Git/Github基础介绍  
-1.什么是Git/Github  
-2.Github网站基础介绍  
-3.发现工具，寻找灵感:  
-    *[推荐热点](https://github.com/explore)  
-    *[高级搜索](https://github.com/search)  
-    *[收藏列表](https://github.com/stars)  
-## Github基础操作(网站)
-1.装修Github个人主页以及markdown语法  
-2.创建自己的第一个仓库（选择开源许可证）  
+Learn the first repository of Github  
+## Introduction to Git/Github Basics  
+1. What is Git/Github?  
+2. Introduction to the basics of Github website  
+3. Discover tools and find inspiration:  
+    *[Recommended Hotspots](https://github.com/explore)  
+    *[Advanced Search](https://github.com/search)  
+    *[Favorites List](https://github.com/stars)  
+## Github Basics (Website)
+1. Decorate the Github profile and markdown syntax  
+2. Create your first repository (choose an open source license)
